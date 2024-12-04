@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aymeric Sabatier</h1>
 <h3 align="center">A passionate Fullstack developper from France</h3>
 
-- 👨‍💻 All of my projects are available at [www.aymeric-sabatier.fr](www.aymeric-sabatier.fr)
+- 👨‍💻 All of my projects are available at [www.aymeric-sabatier.fr](https://www.aymeric-sabatier.fr)
 
 - 📫 How to reach me **ssabatieraymeric@gmail.com**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/aymeric-sabatier-916613279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymeric sabatier" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aymeric-sabatier-916613279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymeric sabatier" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
